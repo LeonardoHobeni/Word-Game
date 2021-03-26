@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615051482 source:c:\cpp\word game\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<iomanip>
+	<string>
+
